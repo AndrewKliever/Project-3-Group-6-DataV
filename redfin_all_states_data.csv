@@ -1,0 +1,1001 @@
+state,city,avg.list price,avg.price/sqft,avg.days on market
+AL,1.Huntsville,"$375,000",$161,91
+AL,2.Birmingham,"$165,000",$89,82
+AL,3.Mobile,"$249,584",$124,85
+AL,4.Madison,"$549,900",$177,109
+AL,5.Montgomery,"$190,000",$108,82
+AL,6.Gulf Shores,"$513,500",$286,131
+AL,7.Hoover,"$504,950",$175,86
+AL,8.Fairhope,"$629,000",$212,106
+AL,9.Orange Beach,"$740,000",$439,134
+AL,10.Tuscaloosa,"$369,900",$201,70
+AL,11.Athens,"$350,000",$155,104
+AL,12.Auburn,"$450,000",$207,89
+AL,13.Vestavia Hills,"$484,000",$212,77
+AL,14.Dothan,"$249,900",$127,49
+AL,15.Trussville,"$432,400",$154,82
+AL,16.Mountain Brook,"$734,000",$296,66
+AL,17.Decatur,"$280,000",$134,96
+AL,18.Foley,"$339,900",$176,90
+AL,19.Daphne,"$319,900",$175,99
+AL,20.Pelham,"$350,000",$162,66
+AK,1.Anchorage,"$450,000",$222,61
+AK,2.Fairbanks,"$300,000",—,62
+AK,3.Juneau,"$495,000",$263,72
+AK,4.Wasilla,"$499,450",$222,53
+AK,5.Palmer,"$530,200",$194,95
+AK,6.Homer,"$590,000",$284,170
+AK,7.Ketchikan,"$387,000",$238,96
+AK,8.Sitka,"$742,000",$482,134
+AK,9.Soldotna,"$412,000",$200,105
+AK,10.Kenai,"$380,000",$245,86
+AK,11.Seward,"$637,500",$360,64
+AK,12.North Pole,"$430,000",$245,78
+AK,13.Kodiak,"$465,000",$283,169
+AK,14.Talkeetna,"$348,500",—,174
+AK,15.Willow,"$285,000",$146,146
+AK,16.Haines,"$415,000",$306,152
+AK,17.Sterling,"$465,000",$234,72
+AK,18.Big Lake,"$492,500",$139,134
+AK,19.Skagway,—,—,611
+AK,20.Valdez,"$850,000",—,139
+AZ,1.Phoenix,"$485,000",$282,70
+AZ,2.Scottsdale,"$1,049,900",$438,79
+AZ,3.Gilbert,"$639,000",$278,69
+AZ,4.Chandler,"$559,000",$294,64
+AZ,5.Mesa,"$479,950",$265,66
+AZ,6.Tucson,"$335,000",$215,70
+AZ,7.Tempe,"$499,000",$292,72
+AZ,8.Queen Creek,"$675,000",$273,85
+AZ,9.Flagstaff,"$749,500",$384,89
+AZ,10.Prescott,"$649,000",$300,88
+AZ,11.Peoria,"$569,000",$268,72
+AZ,12.Surprise,"$462,998",$236,74
+AZ,13.Glendale,"$449,000",$245,67
+AZ,14.Sedona,"$1,200,000",$482,103
+AZ,15.Goodyear,"$524,900",$224,76
+AZ,16.Buckeye,"$439,900",$223,75
+AZ,17.Paradise Valley,"$5,790,000",$856,92
+AZ,18.San Tan Valley,"$450,000",$218,72
+AZ,19.Sun City,"$299,900",$195,65
+AZ,20.Maricopa,"$379,200",$192,74
+AR,1.Little Rock,"$269,950",$140,81
+AR,2.Bentonville,"$596,450",$230,56
+AR,3.Fayetteville,"$430,525",$206,76
+AR,4.Rogers,"$564,000",$218,61
+AR,5.Hot Springs,"$262,450",$154,106
+AR,6.Bella Vista,"$410,000",$200,54
+AR,7.Conway,"$322,500",$154,70
+AR,8.Benton,"$275,000",$138,70
+AR,9.Sherwood,"$271,950",$143,53
+AR,10.North Little Rock,"$209,698",$124,69
+AR,11.Fort Smith,"$305,500",$115,96
+AR,12.Bryant,"$304,500",$158,70
+AR,13.Maumelle,"$359,400",$150,74
+AR,14.Springdale,"$394,000",$202,60
+AR,15.Hot Springs Village,"$321,900",$159,84
+AR,16.Cabot,"$272,500",$146,66
+AR,17.Eureka Springs,"$495,000",$148,156
+AR,18.Pine Bluff,"$74,950",$94,80
+AR,19.Centerton,"$479,450",$210,42
+AR,20.Jonesboro,"$252,450",$130,89
+CA,1.San Diego,"$969,000",$677,59
+CA,2.Los Angeles,"$1,165,000",$621,84
+CA,3.San Francisco,"$1,098,800",$876,85
+CA,4.San Jose,"$999,000",$864,47
+CA,5.Irvine,"$1,749,995",$802,69
+CA,6.Fremont,"$1,065,000",$921,42
+CA,7.Sacramento,"$496,500",$328,53
+CA,8.Pasadena,"$1,230,000",$743,67
+CA,9.Long Beach,"$799,000",$618,67
+CA,10.Pleasanton,"$1,577,000",$922,54
+CA,11.Temecula,"$849,000",$368,56
+CA,12.Riverside,"$685,000",$374,66
+CA,13.Dublin,"$980,000",$781,56
+CA,14.Corona,"$807,000",$408,62
+CA,15.San Ramon,"$1,346,500",$702,41
+CA,16.Rancho Cucamonga,"$859,999",$454,52
+CA,17.Fullerton,"$987,450",$569,57
+CA,18.Huntington Beach,"$1,494,500",$758,59
+CA,19.Sunnyvale,"$1,648,236","$1,209",54
+CA,20.Glendale,"$1,159,000",$673,67
+CO,1.Denver,"$550,000",$340,89
+CO,2.Colorado Springs,"$457,638",$216,82
+CO,3.Boulder,"$940,000",$532,116
+CO,4.Littleton,"$589,900",$297,70
+CO,5.Aurora,"$474,150",$223,84
+CO,6.Fort Collins,"$500,000",$272,79
+CO,7.Arvada,"$664,500",$278,72
+CO,8.Parker,"$680,000",$214,80
+CO,9.Lakewood,"$477,500",$279,69
+CO,10.Golden,"$850,000",$365,69
+CO,11.Broomfield,"$599,000",$256,75
+CO,12.Westminster,"$475,000",$258,70
+CO,13.Castle Rock,"$660,000",$202,81
+CO,14.Thornton,"$545,500",$218,61
+CO,15.Highlands Ranch,"$700,000",$248,75
+CO,16.Longmont,"$585,000",$239,75
+CO,17.Centennial,"$601,200",$252,69
+CO,18.Loveland,"$500,000",$221,89
+CO,19.Evergreen,"$976,250",$349,62
+CO,20.Erie,"$825,000",$218,83
+CT,1.Greenwich,"$3,995,000",$749,108
+CT,2.Stamford,"$694,000",$387,62
+CT,3.West Hartford,"$589,500",$250,49
+CT,4.Westport,"$3,147,500",$572,98
+CT,5.New Haven,"$329,000",$179,84
+CT,6.Norwalk,"$684,900",$400,60
+CT,7.Milford,"$499,000",$298,64
+CT,8.Darien,"$4,888,000",$688,103
+CT,9.Ridgefield,"$1,699,500",$352,89
+CT,10.Hartford,"$279,950",$150,61
+CT,11.Trumbull,"$649,500",$301,52
+CT,12.Danbury,"$485,000",$254,56
+CT,13.Bridgeport,"$374,900",$215,63
+CT,14.Stratford,"$429,000",$241,67
+CT,15.Shelton,"$549,950",$258,56
+CT,16.Waterbury,"$290,000",$171,66
+CT,17.Manchester,"$299,900",$207,44
+CT,18.Newtown,"$699,000",$265,103
+CT,19.West Haven,"$380,000",$214,52
+CT,20.North Haven,"$459,450",$230,58
+DE,1.Wilmington,"$217,000",$172,55
+DE,2.Newark,"$449,000",$215,74
+DE,3.Rehoboth Beach,"$1,974,500","$1,000",78
+DE,4.Lewes,"$1,259,950",$254,78
+DE,5.Bethany Beach,"$2,600,000",$624,56
+DE,6.Middletown,"$422,500",$210,60
+DE,7.Bear,"$360,000",$183,72
+DE,8.Dover,"$317,500",$172,48
+DE,9.New Castle,"$329,900",$216,48
+DE,10.Hockessin,"$649,900",$222,61
+DE,11.Fenwick Island,"$1,799,900",$558,81
+DE,12.Selbyville,"$495,000",$230,84
+DE,13.Smyrna,"$447,000",$169,104
+DE,14.Ocean View,"$517,494",$226,102
+DE,15.Claymont,"$300,000",$204,46
+DE,16.Dewey Beach,"$1,100,000","$1,194",100
+DE,17.Millsboro,"$349,900",$178,81
+DE,18.Milton,"$499,900",$229,109
+DE,19.Milford,"$329,450",$171,66
+DE,20.Townsend,"$566,400",—,67
+FL,1.Orlando,"$325,000",$246,85
+FL,2.Tampa,"$495,550",$286,84
+FL,3.Miami,"$730,000",$537,118
+FL,4.Jacksonville,"$304,454",$182,78
+FL,5.Fort Lauderdale,"$674,000",$410,112
+FL,6.Sarasota,"$725,000",$480,82
+FL,7.Boca Raton,"$739,000",$396,98
+FL,8.Naples,"$1,795,000",$612,94
+FL,9.St. Petersburg,"$439,000",$323,64
+FL,10.West Palm Beach,"$525,000",$332,96
+FL,11.Kissimmee,"$350,000",$202,102
+FL,12.Cape Coral,"$455,000",$217,96
+FL,13.Ocala,"$314,870",$156,88
+FL,14.Delray Beach,"$571,950",$364,88
+FL,15.Clearwater,"$365,000",$270,98
+FL,16.Miami Beach,"$695,000",$650,120
+FL,17.Fort Myers,"$389,000",$226,91
+FL,18.Port St. Lucie,"$439,900",$225,88
+FL,19.St. Augustine,"$550,000",$302,124
+FL,20.Pensacola,"$348,900",$224,103
+GA,1.Atlanta,"$371,300",$270,90
+GA,2.Alpharetta,"$907,500",$266,80
+GA,3.Marietta,"$450,216",$219,64
+GA,4.Savannah,"$375,000",$193,77
+GA,5.Cumming,"$656,320",$236,67
+GA,6.Roswell,"$735,000",$226,72
+GA,7.Sandy Springs,"$374,950",$247,90
+GA,8.Duluth,"$482,000",$219,72
+GA,9.Lawrenceville,"$399,628",$181,60
+GA,10.Johns Creek,"$751,215",$242,60
+GA,11.Suwanee,"$639,450",$213,80
+GA,12.Decatur,"$494,995",$338,82
+GA,13.Smyrna,"$445,000",$232,75
+GA,14.Buford,"$824,428",$216,88
+GA,15.Woodstock,"$505,000",$244,57
+GA,16.McDonough,"$361,245",$155,82
+GA,17.Kennesaw,"$405,000",$181,75
+GA,18.Fayetteville,"$445,000",$189,85
+GA,19.Dunwoody,"$449,950",$232,78
+GA,20.Douglasville,"$372,990",$146,80
+HI,1.Honolulu,"$620,000",$720,105
+HI,2.Kailua-Kona,"$717,500",$658,116
+HI,3.Hilo,"$660,000",$446,92
+HI,4.Kailua,"$1,500,000",$786,96
+HI,5.EWA Beach,"$868,000",$615,63
+HI,6.Kaneohe,"$870,000",$661,66
+HI,7.Kapolei,"$737,500",$602,83
+HI,8.Kihei,"$839,000","$1,078",105
+HI,9.Pearl City,"$780,000",$643,68
+HI,10.Mililani Town,"$719,000",$633,72
+HI,11.Aiea,"$499,000",$696,84
+HI,12.Waipahu,"$598,000",$532,60
+HI,13.Lahaina,"$1,250,000","$1,244",114
+HI,14.Princeville,"$1,392,000",$910,146
+HI,15.Pahoa,"$424,000",$148,501
+HI,16.Wailuku,"$784,500",$701,109
+HI,17.Waimea,"$1,100,000",$659,108
+HI,18.Keaau,"$490,000",—,137
+HI,19.Wailea,"$1,850,000",$868,88
+HI,20.Waianae,"$400,000",$496,112
+ID,1.Boise,"$549,950",$298,69
+ID,2.Meridian,"$579,000",$271,70
+ID,3.Eagle,"$824,880",$333,77
+ID,4.Coeur d'Alene,"$661,495",$279,106
+ID,5.Nampa,"$439,990",$230,64
+ID,6.Star,"$574,995",$246,120
+ID,7.Post Falls,"$544,900",$280,77
+ID,8.Sandpoint,"$664,925",$323,130
+ID,9.Caldwell,"$403,570",$237,63
+ID,10.Hayden,"$549,000",$300,68
+ID,11.Idaho Falls,"$382,500",—,70
+ID,12.Middleton,"$536,995",$230,89
+ID,13.Twin Falls,"$409,500",$222,104
+ID,14.Kuna,"$489,990",$256,63
+ID,15.McCall,"$999,250",$455,138
+ID,16.Rathdrum,"$609,500",$320,106
+ID,17.Moscow,"$479,900",$263,92
+ID,18.Sun Valley,"$1,324,500",$543,124
+ID,19.Emmett,"$449,990",$256,112
+ID,20.Pocatello,"$350,950",$156,82
+IL,1.Chicago,"$329,900",$244,77
+IL,2.Naperville,"$625,000",$240,61
+IL,3.Schaumburg,"$312,500",$220,50
+IL,4.Arlington Heights,"$510,000",$235,60
+IL,5.Glenview,"$600,000",$260,56
+IL,6.Des Plaines,"$345,000",$211,59
+IL,7.Orland Park,"$367,500",$190,59
+IL,8.Oak Park,"$409,900",$245,74
+IL,9.Evanston,"$399,000",$270,52
+IL,10.Downers Grove,"$457,500",$246,62
+IL,11.Mount Prospect,"$374,250",$222,60
+IL,12.Palatine,"$380,000",$213,59
+IL,13.Plainfield,"$539,900",$203,64
+IL,14.Skokie,"$439,000",$231,62
+IL,15.Northbrook,"$587,250",$271,68
+IL,16.Lombard,"$339,950",$226,54
+IL,17.Elmhurst,"$764,000",$344,84
+IL,18.Hoffman Estates,"$369,900",$222,54
+IL,19.St. Charles,"$462,400",$219,55
+IL,20.Aurora,"$320,000",$200,49
+IN,1.Indianapolis,"$264,900",$134,70
+IN,2.Carmel,"$599,999",$179,47
+IN,3.Fishers,"$435,000",$165,57
+IN,4.Munster,"$377,450",$159,89
+IN,5.Hammond,"$219,900",$139,59
+IN,6.Zionsville,"$785,000",$188,68
+IN,7.Dyer,"$310,000",$148,54
+IN,8.Crown Point,"$330,000",$170,67
+IN,9.Westfield,"$548,450",$183,60
+IN,10.Noblesville,"$397,000",$154,51
+IN,11.Greenwood,"$317,950",$162,72
+IN,12.Fort Wayne,"$220,000",$133,44
+IN,13.Gary,"$154,500",$63,84
+IN,14.South Bend,"$140,000",$112,60
+IN,15.Schererville,"$364,900",$150,62
+IN,16.St. John,"$560,000",$176,102
+IN,17.Valparaiso,"$448,503",$166,80
+IN,18.Merrillville,"$272,599",$155,69
+IN,19.Brownsburg,"$381,750",$174,71
+IN,20.Bloomington,"$329,000",$178,102
+IA,1.Des Moines,"$255,000",$182,74
+IA,2.Iowa City,"$375,000",$175,86
+IA,3.West Des Moines,"$359,900",$211,84
+IA,4.Cedar Rapids,"$215,000",$125,63
+IA,5.Ankeny,"$394,995",$224,88
+IA,6.Davenport,"$205,000",$118,67
+IA,7.Urbandale,"$424,990",$217,103
+IA,8.Waukee,"$424,950",$255,113
+IA,9.Ames,"$422,500",$203,101
+IA,10.Dubuque,"$237,450",$130,62
+IA,11.Bettendorf,"$366,750",$148,58
+IA,12.Council Bluffs,"$246,950",$137,48
+IA,13.Sioux City,"$229,000",$125,63
+IA,14.Clive,"$549,900",$206,131
+IA,15.Johnston,"$484,495",$202,75
+IA,16.Coralville,"$315,000",$163,74
+IA,17.Cedar Falls,"$323,000",$146,82
+IA,18.Waterloo,"$200,000",$112,61
+IA,19.North Liberty,"$361,999",$150,49
+IA,20.Altoona,"$359,990",$266,76
+KS,1.Overland Park,"$685,657",$198,77
+KS,2.Olathe,"$607,750",$195,84
+KS,3.Wichita,"$289,900",$116,54
+KS,4.Kansas City,"$219,500",$141,62
+KS,5.Leawood,"$1,100,784",$213,95
+KS,6.Lenexa,"$726,050",$202,93
+KS,7.Shawnee,"$514,900",$172,84
+KS,8.Lawrence,"$355,000",$170,71
+KS,9.Prairie Village,"$1,124,900",$248,39
+KS,10.Topeka,"$150,000",$103,42
+KS,11.Manhattan,"$317,450",$100,64
+KS,12.Mission,"$360,700",$189,50
+KS,13.Leavenworth,"$226,500",$132,58
+KS,14.Mission Hills,"$3,199,950",—,147
+KS,15.Gardner,"$437,400",$176,62
+KS,16.Fairway,"$604,250",$277,48
+KS,17.Bonner Springs,"$400,000",$176,29
+KS,18.Basehor,"$450,000",$203,85
+KS,19.Spring Hill,"$417,504",$204,78
+KS,20.Andover,"$376,407",$136,127
+KY,1.Louisville,"$264,900",$157,54
+KY,2.Lexington,"$399,000",$185,60
+KY,3.Bowling Green,"$299,900",$169,98
+KY,4.Covington,"$250,000",$171,55
+KY,5.Frankfort,"$284,900",$138,70
+KY,6.Florence,"$245,000",$188,34
+KY,7.Georgetown,"$367,450",$160,87
+KY,8.Richmond,"$321,450",$151,84
+KY,9.Elizabethtown,"$319,000",$158,69
+KY,10.Nicholasville,"$384,328",$168,62
+KY,11.Paducah,"$235,000",$106,64
+KY,12.Newport,"$432,000",$203,76
+KY,13.Versailles,"$382,433",$157,52
+KY,14.Union,"$421,300",$185,87
+KY,15.Fort Thomas,"$797,500",$220,61
+KY,16.Winchester,"$277,000",$139,69
+KY,17.Shelbyville,"$349,990",$162,67
+KY,18.Mount Washington,"$325,000",$175,65
+KY,19.Bardstown,"$269,900",$174,66
+KY,20.Independence,"$350,000",$171,36
+LA,1.New Orleans,"$349,900",$208,140
+LA,2.Baton Rouge,"$181,000",$140,102
+LA,3.Metairie,"$375,000",$166,113
+LA,4.Mandeville,"$387,900",$176,133
+LA,5.Covington,"$307,500",$219,76
+LA,6.Slidell,"$225,750",$115,118
+LA,7.Shreveport,"$179,000",$101,99
+LA,8.Denham Springs,"$230,000",$142,70
+LA,9.Kenner,"$268,500",$156,116
+LA,10.Gonzales,"$295,000",$166,133
+LA,11.Lafayette,"$292,500",$130,109
+LA,12.Prairieville,"$382,400",$164,70
+LA,13.Zachary,"$300,000",$146,79
+LA,14.Gretna,"$245,000",$145,93
+LA,15.Hammond,"$254,900",$114,92
+LA,16.Harvey,"$229,988",$130,78
+LA,17.Marrero,"$210,000",$136,100
+LA,18.Madisonville,"$345,000",$168,132
+LA,19.Lake Charles,"$219,000",$122,133
+LA,20.Ponchatoula,"$225,000",$142,90
+ME,1.Portland,"$650,000",$392,76
+ME,2.Scarborough,"$649,900",$345,53
+ME,3.South Portland,"$637,500",$380,40
+ME,4.Falmouth,"$950,000",$644,63
+ME,5.Kennebunk,"$619,900",$337,58
+ME,6.Cape Elizabeth,"$1,170,000",$346,43
+ME,7.Bangor,"$324,999",$179,64
+ME,8.Brunswick,"$479,000",$357,54
+ME,9.Kennebunkport,"$1,275,000","$1,604",56
+ME,10.Kittery,"$1,075,000",$409,56
+ME,11.Saco,"$520,000",$291,65
+ME,12.Camden,"$799,000",$364,85
+ME,13.Yarmouth,"$795,000",$308,53
+ME,14.Freeport,"$632,000",—,60
+ME,15.Bar Harbor,"$1,007,500",$565,231
+ME,16.Biddeford,"$554,500",$290,63
+ME,17.Westbrook,"$534,899",$296,40
+ME,18.Old Orchard Beach,"$499,750",$303,91
+ME,19.Bath,"$367,500",$239,50
+ME,20.Gorham,"$495,000",$253,42
+MD,1.Bowie,"$515,000",$254,46
+MD,2.Baltimore,"$225,000",$156,70
+MD,3.Silver Spring,"$437,500",$314,70
+MD,4.Bethesda,"$2,162,450",$469,69
+MD,5.Frederick,"$457,495",$225,45
+MD,6.Rockville,"$575,000",$355,53
+MD,7.Columbia,"$434,950",$246,30
+MD,8.Upper Marlboro,"$320,000",$259,59
+MD,9.Ellicott City,"$572,450",$257,45
+MD,10.Laurel,"$399,450",$257,44
+MD,11.Gaithersburg,"$517,450",$300,40
+MD,12.Annapolis,"$675,000",$289,48
+MD,13.Potomac,"$1,695,000",$306,50
+MD,14.Waldorf,"$453,000",$205,47
+MD,15.Germantown,"$400,000",$260,48
+MD,16.Fort Washington,"$575,000",$225,51
+MD,17.Crofton,"$412,450",$252,46
+MD,18.Olney,"$665,000",$267,45
+MD,19.Clarksburg,"$596,450",$260,44
+MD,20.Ocean City,"$479,899",$428,84
+MA,1.Boston,"$1,050,000",$670,85
+MA,2.Newton,"$1,999,000",$574,76
+MA,3.Cambridge,"$1,585,000",$911,88
+MA,4.Quincy,"$660,000",$454,47
+MA,5.Lexington,"$3,299,000",$572,63
+MA,6.Brookline,"$1,998,000",$704,89
+MA,7.Arlington,"$1,195,000",$552,46
+MA,8.Waltham,"$1,124,900",$426,47
+MA,9.Wellesley,"$2,150,000",$634,80
+MA,10.Natick,"$1,299,900",$403,68
+MA,11.Needham,"$2,500,000",$528,75
+MA,12.Braintree,"$674,900",$387,53
+MA,13.Medford,"$888,000",$436,47
+MA,14.Acton,"$825,000",$356,46
+MA,15.Woburn,"$899,900",$452,36
+MA,16.Worcester,"$490,000",$266,40
+MA,17.Andover,"$1,250,000",$400,72
+MA,18.Chelmsford,"$575,000",$374,28
+MA,19.Reading,"$779,950",$451,59
+MA,20.Framingham,"$649,900",$386,44
+MI,1.Detroit,"$102,500",$72,81
+MI,2.Ann Arbor,"$578,116",$348,74
+MI,3.Grand Rapids,"$300,000",$186,56
+MI,4.Troy,"$450,000",$224,59
+MI,5.Novi,"$492,250",$219,47
+MI,6.Farmington Hills,"$325,000",$175,44
+MI,7.Livonia,"$287,450",$201,45
+MI,8.Northville,"$450,000",$214,50
+MI,9.Royal Oak,"$379,000",$269,54
+MI,10.Holland,"$432,450",$228,46
+MI,11.Plymouth,"$499,900",$287,60
+MI,12.Bloomfield Hills,"$480,000",$244,53
+MI,13.Birmingham,"$1,949,000",$357,49
+MI,14.Southfield,"$229,950",$163,42
+MI,15.New Buffalo,"$999,000",$342,96
+MI,16.Rochester Hills,"$457,500",$225,78
+MI,17.Sterling Heights,"$319,900",$192,41
+MI,18.Dearborn,"$274,350",$204,32
+MI,19.Kalamazoo,"$175,000",$148,51
+MI,20.Warren,"$175,000",$152,46
+MN,1.Minneapolis,"$319,900",$208,75
+MN,2.St. Paul,"$289,900",$184,69
+MN,3.Edina,"$524,900",$252,95
+MN,4.Minnetonka,"$420,000",$241,68
+MN,5.Plymouth,"$480,000",$202,80
+MN,6.Eden Prairie,"$439,900",$192,68
+MN,7.Eagan,"$399,450",$182,54
+MN,8.Maple Grove,"$475,000",$192,64
+MN,9.Woodbury,"$499,900",$194,65
+MN,10.Bloomington,"$349,900",$182,60
+MN,11.St. Louis Park,"$314,500",$237,75
+MN,12.Lakeville,"$550,406",$195,73
+MN,13.Blaine,"$444,900",$187,57
+MN,14.Duluth,"$275,400",$156,52
+MN,15.Rochester,"$443,950",$166,71
+MN,16.Apple Valley,"$329,900",$198,62
+MN,17.Stillwater,"$459,500",$248,49
+MN,18.Brooklyn Park,"$325,000",$175,53
+MN,19.Burnsville,"$267,450",$176,57
+MN,20.Roseville,"$347,450",$180,57
+MS,1.Biloxi,"$309,000",$152,91
+MS,2.Olive Branch,"$359,450",$160,81
+MS,3.Gulfport,"$229,900",$133,90
+MS,4.Jackson,"$99,500",$82,92
+MS,5.Laurel,"$248,000",$95,86
+MS,6.Ocean Springs,"$335,000",$205,118
+MS,7.Southaven,"$335,950",$165,71
+MS,8.Hattiesburg,"$239,000",—,84
+MS,9.Oxford,"$550,000",—,74
+MS,10.Brandon,"$362,200",$148,96
+MS,11.Bay St. Louis,"$450,000",$255,159
+MS,12.Madison,"$565,000",$159,73
+MS,13.Hernando,"$399,900",$166,92
+MS,14.Pass Christian,"$427,000",$230,159
+MS,15.Ridgeland,"$369,000",$156,74
+MS,16.Horn Lake,"$300,000",$154,75
+MS,17.Byhalia,"$326,990",$190,161
+MS,18.Long Beach,"$310,500",$139,113
+MS,19.Tupelo,"$290,000",—,70
+MS,20.Clinton,"$342,250",$136,89
+MO,1.Kansas City,"$250,000",$152,71
+MO,2.St. Louis,"$199,700",$153,64
+MO,3.St. Charles,"$335,000",$193,46
+MO,4.Lee's Summit,"$525,000",$174,75
+MO,5.Chesterfield,"$545,000",$189,55
+MO,6.Springfield,"$205,000",$122,119
+MO,7.Kirkwood,"$709,900",$221,64
+MO,8.Independence,"$215,000",$130,62
+MO,9.O'Fallon,"$382,995",$170,53
+MO,10.Blue Springs,"$397,450",$164,82
+MO,11.Ballwin,"$439,000",$178,38
+MO,12.Webster Groves,"$357,000",$258,38
+MO,13.Branson,"$238,200",$17,168
+MO,14.Clayton,"$752,450",$326,73
+MO,15.St. Peters,"$300,000",$167,36
+MO,16.Florissant,"$220,000",$124,51
+MO,17.Columbia,"$454,000",$154,74
+MO,18.Liberty,"$398,500",$159,67
+MO,19.Ladue,"$1,249,900",$395,116
+MO,20.Wentzville,"$385,000",$184,70
+MT,1.Bozeman,"$712,000",—,118
+MT,2.Missoula,"$599,450",—,82
+MT,3.Billings,"$385,400",—,87
+MT,4.Whitefish,"$1,200,000",—,141
+MT,5.Kalispell,"$550,000",—,106
+MT,6.Helena,"$474,500",—,70
+MT,7.Big Sky,"$2,792,500",—,190
+MT,8.Great Falls,"$349,000",—,75
+MT,9.Livingston,"$525,000",—,80
+MT,10.Bigfork,"$1,195,000",—,133
+MT,11.Polson,"$619,750",—,152
+MT,12.Hamilton,"$429,000",—,89
+MT,13.Columbia Falls,"$510,000",—,83
+MT,14.Belgrade,"$572,500",—,81
+MT,15.Red Lodge,"$549,900",—,173
+MT,16.Libby,"$329,000",—,138
+MT,17.West Yellowstone,"$879,000",—,214
+MT,18.Lakeside,"$900,000",—,162
+MT,19.Stevensville,"$479,000",—,85
+MT,20.Ennis,"$632,250",—,190
+NE,1.Omaha,"$260,000",$151,45
+NE,2.Lincoln,"$341,000",$155,50
+NE,3.Papillion,"$415,000",$140,40
+NE,4.Bellevue,"$312,250",$138,42
+NE,5.Gretna,"$772,450",$138,64
+NE,6.Bennington,"$345,000",$182,78
+NE,7.La Vista,"$365,000",$158,32
+NE,8.Kearney,"$315,000",$127,42
+NE,9.Grand Island,"$358,000",$122,72
+NE,10.Fremont,"$225,000",$132,71
+NE,11.Plattsmouth,"$219,000",$131,29
+NE,12.Blair,"$355,000",$155,72
+NE,13.Scottsbluff,"$217,250",$104,62
+NE,14.Waterloo,"$276,500",—,24
+NE,15.North Platte,"$177,000",$109,56
+NE,16.Nebraska City,"$245,000",$119,46
+NE,17.Ralston,"$290,000",$146,32
+NE,18.Beatrice,"$249,900",$92,68
+NE,19.Ashland,"$422,400",$161,296
+NE,20.Norfolk,"$254,500",$113,72
+NV,1.Las Vegas,"$449,999",$260,71
+NV,2.Henderson,"$545,000",$267,73
+NV,3.Reno,"$541,500",$322,83
+NV,4.North Las Vegas,"$425,000",$239,67
+NV,5.Carson City,"$535,000",$307,82
+NV,6.Incline Village,"$1,548,500",$728,140
+NV,7.Sparks,"$549,950",$270,67
+NV,8.Pahrump,"$418,450",$206,102
+NV,9.Summerlin South,"$846,900",$363,84
+NV,10.Boulder City,"$439,950",$267,84
+NV,11.Gardnerville,"$592,450",$335,96
+NV,12.Spring Valley,"$458,000",$260,71
+NV,13.Minden,"$589,950",$300,67
+NV,14.Mesquite,"$431,494",$221,89
+NV,15.Laughlin,"$229,995",$190,89
+NV,16.Enterprise,"$509,903",$258,70
+NV,17.Paradise,"$400,000",$257,89
+NV,18.Stateline,"$2,490,000",—,166
+NV,19.Fernley,"$414,950",$236,81
+NV,20.Dayton,"$469,950",$257,64
+NH,1.Nashua,"$507,450",$272,36
+NH,2.Salem,"$609,000",$353,41
+NH,3.Portsmouth,"$935,000",$604,90
+NH,4.Manchester,"$449,900",$258,42
+NH,5.Derry,"$375,000",$292,37
+NH,6.Londonderry,"$564,003",$240,79
+NH,7.Hudson,"$519,900",$320,53
+NH,8.Concord,"$522,400",$230,54
+NH,9.Dover,"$625,000",$332,57
+NH,10.Exeter,"$494,900",$328,70
+NH,11.Hampton,"$539,900",$508,76
+NH,12.Amherst,"$573,000",$224,40
+NH,13.Laconia,"$549,900",$272,90
+NH,14.Keene,"$375,000",$192,47
+NH,15.North Conway,"$622,000",$361,84
+NH,16.Hanover,"$1,747,500",$426,51
+NH,17.Rochester,"$399,900",$257,39
+NH,18.Goffstown,"$636,950",$326,61
+NH,19.Hooksett,"$472,500",$246,37
+NH,20.Meredith,"$759,900",$430,86
+NJ,1.Jersey City,"$710,000",$573,82
+NJ,2.Montclair,"$1,699,950",$550,52
+NJ,3.Princeton,"$1,969,250",$526,88
+NJ,4.Hoboken,"$1,099,000",$798,54
+NJ,5.Edison,"$612,450",$367,78
+NJ,6.Ridgewood,"$1,175,000",$458,57
+NJ,7.Fort Lee,"$507,500",$439,78
+NJ,8.Newark,"$619,000",$246,76
+NJ,9.Summit,"$1,387,000",$607,53
+NJ,10.Paramus,"$1,249,500",$452,68
+NJ,11.Clifton,"$559,500",$394,62
+NJ,12.Westfield,"$1,650,000",$449,81
+NJ,13.Bridgewater,"$537,500",$372,44
+NJ,14.Haddonfield,"$1,062,450",$414,42
+NJ,15.Ocean City,"$1,299,000",$755,92
+NJ,16.Cape May,"$1,499,500",$666,88
+NJ,17.Toms River,"$525,000",$298,59
+NJ,18.Tenafly,"$1,550,000",$562,82
+NJ,19.Marlton,"$415,000",$241,31
+NJ,20.Metuchen,"$577,500",$401,66
+NM,1.Albuquerque,"$375,000",$207,68
+NM,2.Santa Fe,"$625,000",$354,100
+NM,3.Las Cruces,"$339,000",$135,88
+NM,4.Taos,"$635,000",—,178
+NM,5.Rio Rancho,"$430,995",$215,75
+NM,6.Los Alamos,"$750,000",$278,45
+NM,7.Corrales,"$950,000",$300,102
+NM,8.Ruidoso,"$427,250",—,127
+NM,9.Silver City,"$237,450",—,147
+NM,10.Los Lunas,"$382,995",$191,73
+NM,11.Roswell,"$258,000",$48,76
+NM,12.Tijeras,—,$171,128
+NM,13.Alamogordo,"$239,900",—,65
+NM,14.Farmington,"$378,280",—,62
+NM,15.Los Ranchos de Albuquerque,"$1,725,000",$272,40
+NM,16.Placitas,"$857,500",$267,88
+NM,17.Angel Fire,"$1,995,000",—,122
+NM,18.Edgewood,"$469,950",$198,86
+NM,19.Clovis,"$225,000",—,91
+NM,20.Las Vegas,"$275,000",—,83
+NY,1.New York,"$949,000",$630,98
+NY,2.Manhattan,"$1,650,000","$1,416",102
+NY,3.Rochester,"$125,000",$98,45
+NY,4.Buffalo,"$183,000",$120,63
+NY,5.Yonkers,"$279,000",$341,68
+NY,6.White Plains,"$399,000",$344,75
+NY,7.Scarsdale,"$3,395,000",$600,134
+NY,8.Albany,"$272,450",$153,63
+NY,9.New Rochelle,"$459,000",$318,60
+NY,10.Huntington,"$1,174,000",$427,61
+NY,11.Commack,"$824,500",$422,38
+NY,12.Massapequa,"$925,000",$408,49
+NY,13.Smithtown,"$867,000",$334,61
+NY,14.Syracuse,"$159,450",$112,80
+NY,15.Garden City,"$1,525,000",$618,46
+NY,16.Valley Stream,"$749,945",$502,57
+NY,17.Great Neck,"$779,500",$613,81
+NY,18.Dix Hills,"$1,499,000",$365,90
+NY,19.Merrick,"$879,000",$453,55
+NY,20.Plainview,"$1,249,500",$524,70
+NC,1.Charlotte,"$419,900",$237,69
+NC,2.Raleigh,"$475,000",$232,76
+NC,3.Cary,"$591,408",$260,74
+NC,4.Durham,"$420,000",$225,65
+NC,5.Asheville,"$575,000",$321,102
+NC,6.Apex,"$590,000",$240,63
+NC,7.Greensboro,"$299,826",$169,60
+NC,8.Chapel Hill,"$491,298",$272,73
+NC,9.Wilmington,"$442,122",$250,83
+NC,10.Winston-Salem,"$275,495",$170,62
+NC,11.Wake Forest,"$450,000",$198,78
+NC,12.Concord,"$398,878",$200,75
+NC,13.Holly Springs,"$542,000",$230,48
+NC,14.Morrisville,"$576,534",$234,56
+NC,15.Huntersville,"$550,192",$224,66
+NC,16.Fuquay-Varina,"$460,000",$216,68
+NC,17.Mooresville,"$445,000",$198,72
+NC,18.Fayetteville,"$256,000",$140,60
+NC,19.Matthews,"$599,000",$221,74
+NC,20.Garner,"$372,430",$198,75
+ND,1.Fargo,"$409,900",$149,105
+ND,2.Bismarck,"$404,950",$175,70
+ND,3.Grand Forks,"$357,450",$184,83
+ND,4.Minot,"$262,500",$118,75
+ND,5.West Fargo,"$372,150",$170,93
+ND,6.Williston,"$362,500",$193,66
+ND,7.Dickinson,"$349,900",$219,72
+ND,8.Jamestown,"$225,000",$89,76
+ND,9.Mandan,"$335,400",$45,82
+ND,10.Devils Lake,"$139,000",—,55
+ND,11.Horace,"$349,900",$189,110
+ND,12.Valley City,"$165,000",$107,59
+ND,13.Watford City,"$425,000",—,97
+ND,14.Surrey,"$415,000",$124,193
+ND,15.New England,"$99,500",$151,96
+ND,16.Killdeer,"$224,500",—,100
+ND,17.Medora,—,—,—
+ND,18.Wahpeton,"$296,025",$50,122
+ND,19.Gardena,—,—,—
+ND,20.Hazen,"$149,500",—,80
+OH,1.Columbus,"$270,000",$183,57
+OH,2.Cincinnati,"$270,000",$164,70
+OH,3.Cleveland,"$129,900",$90,62
+OH,4.Dayton,"$130,000",$103,62
+OH,5.Dublin,"$654,900",$195,66
+OH,6.Westerville,"$504,900",$205,40
+OH,7.Akron,"$134,950",$100,60
+OH,8.Toledo,"$115,000",$82,49
+OH,9.Upper Arlington,"$680,000",$274,56
+OH,10.Mason,"$482,000",$200,53
+OH,11.New Albany,"$849,000",$228,70
+OH,12.Shaker Heights,"$309,000",$115,80
+OH,13.Lakewood,"$294,950",$190,53
+OH,14.Powell,"$599,000",$201,61
+OH,15.Beavercreek,"$310,000",$128,62
+OH,16.West Chester,"$479,900",$172,50
+OH,17.Kettering,"$230,000",$197,47
+OH,18.Hilliard,"$399,900",$216,41
+OH,19.Rocky River,"$399,000",$204,54
+OH,20.Solon,"$444,950",$173,55
+OK,1.Oklahoma City,"$311,000",$160,77
+OK,2.Tulsa,"$269,500",$140,75
+OK,3.Edmond,"$463,500",$186,88
+OK,4.Norman,"$355,000",$152,89
+OK,5.Broken Arrow,"$363,000",$152,69
+OK,6.Yukon,"$279,000",$146,70
+OK,7.Moore,"$290,000",$159,70
+OK,8.Bixby,"$390,000",$167,84
+OK,9.Mustang,"$289,900",$155,56
+OK,10.Owasso,"$374,044",$152,89
+OK,11.Choctaw,"$354,400",$171,90
+OK,12.Jenks,"$475,000",$169,88
+OK,13.Lawton,"$145,000",$110,86
+OK,14.Guthrie,"$265,950",$134,82
+OK,15.Broken Bow,"$235,500",—,139
+OK,16.Stillwater,"$292,000",$154,60
+OK,17.Blanchard,"$342,946",$150,100
+OK,18.Midwest City,"$209,166",$136,60
+OK,19.Claremore,"$315,000",$98,87
+OK,20.Bartlesville,"$224,900",$102,59
+OR,1.Portland,"$465,000",$307,104
+OR,2.Bend,"$699,900",$386,91
+OR,3.Beaverton,"$599,990",$296,78
+OR,4.Eugene,"$540,000",$304,91
+OR,5.Lake Oswego,"$1,164,000",$361,99
+OR,6.Hillsboro,"$564,900",$294,82
+OR,7.Salem,"$475,000",$254,83
+OR,8.Oregon City,"$561,000",$264,56
+OR,9.West Linn,"$719,450",$289,86
+OR,10.Tigard,"$609,990",$286,96
+OR,11.Happy Valley,"$799,450",$291,115
+OR,12.Gresham,"$489,900",$267,82
+OR,13.Sherwood,"$599,900",$310,98
+OR,14.Tualatin,"$650,000",$283,74
+OR,15.Milwaukie,"$559,900",$351,64
+OR,16.Newberg,"$522,000",$290,79
+OR,17.Corvallis,"$519,000",$303,66
+OR,18.Wilsonville,"$556,700",$292,72
+OR,19.Canby,"$619,900",$276,85
+OR,20.Redmond,"$567,455",$296,99
+PA,1.Philadelphia,"$274,900",$200,80
+PA,2.Pittsburgh,"$263,000",$184,90
+PA,3.West Chester,"$607,000",$277,52
+PA,4.Lancaster,"$299,950",$154,47
+PA,5.Media,"$585,000",$221,47
+PA,6.Allentown,"$289,900",$167,46
+PA,7.Bethlehem,"$299,450",$218,38
+PA,8.York,"$192,250",$104,59
+PA,9.Malvern,"$625,000",$309,59
+PA,10.Doylestown,"$819,500",$336,74
+PA,11.Phoenixville,"$586,195",$255,31
+PA,12.Harrisburg,"$170,000",$104,53
+PA,13.Ardmore,"$559,900",$316,50
+PA,14.Downingtown,"$400,000",$241,39
+PA,15.King of Prussia,"$699,990",$299,73
+PA,16.Lansdale,"$429,000",$278,34
+PA,17.Ambler,"$749,950",$262,26
+PA,18.Collegeville,"$667,450",$223,69
+PA,19.Easton,"$279,900",$190,52
+PA,20.Radnor Township,"$2,125,000",$328,73
+RI,1.Providence,"$532,450",$235,50
+RI,2.Cumberland,"$565,000",$246,46
+RI,3.Newport,"$1,275,000",$564,68
+RI,4.Cranston,"$465,000",$260,54
+RI,5.Warwick,"$423,000",$269,30
+RI,6.Pawtucket,"$382,000",$260,40
+RI,7.East Greenwich,"$979,900",$342,52
+RI,8.Barrington,"$857,000",$312,56
+RI,9.North Kingstown,"$650,000",$297,74
+RI,10.Lincoln,"$675,000",$231,42
+RI,11.Bristol,"$724,450",$334,56
+RI,12.Narragansett,"$945,000",$512,102
+RI,13.Smithfield,"$614,450",$294,53
+RI,14.East Providence,"$442,000",$260,46
+RI,15.Portsmouth,"$799,000",$389,65
+RI,16.Westerly,"$599,900",$298,63
+RI,17.Tiverton,"$599,450",$250,74
+RI,18.North Providence,"$399,900",$243,42
+RI,19.Coventry,"$474,900",$255,50
+RI,20.South Kingstown,"$819,450",$327,69
+SC,1.Charleston,"$665,000",$338,80
+SC,2.Greenville,"$520,000",$308,69
+SC,3.Myrtle Beach,"$279,900",$289,124
+SC,4.Columbia,"$275,000",$149,62
+SC,5.Mount Pleasant,"$950,000",$410,76
+SC,6.Summerville,"$385,000",$192,77
+SC,7.Fort Mill,"$556,500",$242,73
+SC,8.Hilton Head Island,"$619,000",$434,88
+SC,9.Greer,"$352,450",$168,84
+SC,10.Rock Hill,"$325,000",$196,64
+SC,11.Simpsonville,"$375,000",$162,74
+SC,12.North Myrtle Beach,"$399,800",$284,112
+SC,13.Bluffton,"$594,450",$256,78
+SC,14.Conway,"$309,990",$187,96
+SC,15.Spartanburg,"$270,000",$142,75
+SC,16.Lexington,"$323,000",$159,52
+SC,17.Beaufort,"$619,900",$241,96
+SC,18.North Charleston,"$335,000",$196,69
+SC,19.Easley,"$325,000",$159,60
+SC,20.Murrells Inlet,"$474,575",$240,116
+SD,1.Sioux Falls,"$359,900",$176,82
+SD,2.Rapid City,"$374,900",$194,88
+SD,3.Spearfish,"$520,000",$225,120
+SD,4.Pierre,"$289,900",$130,143
+SD,5.Deadwood,"$464,500",$192,123
+SD,6.Brandon,"$430,000",$172,87
+SD,7.Sturgis,"$400,000",$156,76
+SD,8.Tea,"$353,800",$244,240
+SD,9.Custer,"$357,375",$205,70
+SD,10.Aberdeen,"$257,450",$102,80
+SD,11.Brookings,"$179,900",—,53
+SD,12.Yankton,"$334,800",$131,74
+SD,13.Lead,"$255,000",$142,90
+SD,14.Hot Springs,"$326,500",—,80
+SD,15.Watertown,"$347,400",$111,109
+SD,16.Harrisburg,"$379,800",$200,95
+SD,17.Vermillion,"$259,500",$119,81
+SD,18.Belle Fourche,"$349,900",$208,76
+SD,19.Hill City,"$474,950",$247,108
+SD,20.Mitchell,"$329,000",$129,92
+TN,1.Nashville,"$539,900",$259,83
+TN,2.Franklin,"$885,000",$319,72
+TN,3.Knoxville,"$336,400",$222,61
+TN,4.Memphis,"$200,000",$124,82
+TN,5.Chattanooga,"$375,000",$199,82
+TN,6.Murfreesboro,"$459,900",$217,72
+TN,7.Brentwood,"$1,499,950",$365,85
+TN,8.Clarksville,"$322,999",$180,83
+TN,9.Mount Juliet,"$549,250",$234,78
+TN,10.Hendersonville,"$527,495",$227,77
+TN,11.Lebanon,"$427,000",$202,68
+TN,12.Maryville,"$459,900",$227,71
+TN,13.Spring Hill,"$524,900",$239,77
+TN,14.Germantown,"$532,450",$175,82
+TN,15.Collierville,"$579,000",$198,90
+TN,16.Gallatin,"$415,405",$201,76
+TN,17.Nolensville,"$909,900",$290,83
+TN,18.Johnson City,"$345,000",$193,68
+TN,19.Smyrna,"$469,900",$210,75
+TN,20.Columbia,"$399,450",$206,94
+TX,1.Austin,"$560,000",$301,102
+TX,2.Dallas,"$388,250",$242,81
+TX,3.Houston,"$345,000",$181,82
+TX,4.San Antonio,"$275,000",$156,91
+TX,5.Frisco,"$725,000",$254,77
+TX,6.Plano,"$528,500",$223,72
+TX,7.Fort Worth,"$348,250",$174,74
+TX,8.McKinney,"$549,000",$213,73
+TX,9.Katy,"$374,865",$168,65
+TX,10.Prosper,"$929,000",$252,95
+TX,11.Round Rock,"$424,994",$210,82
+TX,12.Arlington,"$349,000",$180,73
+TX,13.Allen,"$533,830",$224,74
+TX,14.Irving,"$416,000",$200,71
+TX,15.Flower Mound,"$697,500",$234,68
+TX,16.Leander,"$489,990",$200,100
+TX,17.The Woodlands,"$535,000",$214,64
+TX,18.Carrollton,"$430,000",$218,65
+TX,19.Georgetown,"$459,200",$213,89
+TX,20.Coppell,"$622,450",$261,74
+UT,1.Salt Lake City,"$568,000",$323,72
+UT,2.Park City,"$3,900,000","$1,192",89
+UT,3.St. George,"$605,450",$273,90
+UT,4.Provo,"$519,950",$239,70
+UT,5.Sandy,"$715,000",$260,67
+UT,6.Lehi,"$679,900",$206,81
+UT,7.Draper,"$872,450",$244,74
+UT,8.South Jordan,"$609,900",$226,76
+UT,9.Ogden,"$389,900",$224,68
+UT,10.Orem,"$522,450",$208,69
+UT,11.West Jordan,"$537,000",$232,57
+UT,12.Cedar City,"$425,000",$195,86
+UT,13.Bountiful,"$549,900",$218,62
+UT,14.Saratoga Springs,"$649,000",$219,71
+UT,15.Heber,"$974,950",$248,99
+UT,16.Layton,"$529,950",$232,74
+UT,17.Cottonwood Heights,"$829,950",$310,77
+UT,18.Highland,"$825,000",$230,85
+UT,19.Herriman,"$639,900",$202,73
+UT,20.Riverton,"$689,000",$244,66
+VT,1.Burlington,"$560,000",$302,70
+VT,2.Stowe,"$1,995,000",—,144
+VT,3.Woodstock,"$625,000",$360,147
+VT,4.Montpelier,"$424,000",$270,84
+VT,5.Brattleboro,"$332,450",$222,96
+VT,6.South Burlington,"$692,450",$312,50
+VT,7.Shelburne,"$769,000",$304,58
+VT,8.Ludlow,"$630,000",—,151
+VT,9.Manchester,"$848,220",$240,109
+VT,10.Rutland,"$309,000",$187,74
+VT,11.Waterbury,"$375,000",$236,125
+VT,12.Wilmington,"$824,000",—,25
+VT,13.Bennington,"$254,500",$146,100
+VT,14.Middlebury,"$536,000",$282,201
+VT,15.Norwich,"$1,250,000",$510,169
+VT,16.Barre,"$249,000",$164,66
+VT,17.Waitsfield,"$650,000",—,124
+VT,18.St. Albans,"$354,450",$202,71
+VT,19.Essex Junction,"$502,000",$259,72
+VT,20.Quechee,"$462,000",$234,134
+VA,1.Alexandria,"$472,000",$405,56
+VA,2.Arlington,"$765,000",$498,59
+VA,3.Virginia Beach,"$415,000",$229,43
+VA,4.Fairfax,"$707,500",$338,47
+VA,5.Ashburn,"$649,250",$301,53
+VA,6.Richmond,"$389,900",$238,60
+VA,7.McLean,"$2,995,000",$434,110
+VA,8.Woodbridge,"$475,000",$254,45
+VA,9.Reston,"$549,990",$351,42
+VA,10.Falls Church,"$782,500",$535,85
+VA,11.Chesapeake,"$420,000",$216,49
+VA,12.Vienna,"$2,200,000",$388,76
+VA,13.Manassas,"$459,000",$261,33
+VA,14.Leesburg,"$650,000",$295,53
+VA,15.Chantilly,"$779,995",$337,68
+VA,16.Springfield,"$674,990",$354,49
+VA,17.Fredericksburg,"$622,500",$222,66
+VA,18.Centreville,"$615,000",$306,39
+VA,19.Herndon,"$565,000",$334,16
+VA,20.Sterling,"$577,450",$288,20
+WA,1.Seattle,"$750,000",$549,78
+WA,2.Bellevue,"$1,118,000",$724,76
+WA,3.Kirkland,"$1,399,999",$764,55
+WA,4.Bothell,"$1,111,573",$540,60
+WA,5.Tacoma,"$499,995",$314,63
+WA,6.Redmond,"$1,150,000",$719,64
+WA,7.Renton,"$670,000",$420,62
+WA,8.Puyallup,"$559,999",$302,50
+WA,9.Vancouver,"$507,450",$292,67
+WA,10.Issaquah,"$549,000",$495,81
+WA,11.Lynnwood,"$532,475",$442,56
+WA,12.Sammamish,"$1,285,000",$614,78
+WA,13.Everett,"$654,975",$378,61
+WA,14.Kent,"$738,000",$342,68
+WA,15.Auburn,"$729,975",$309,66
+WA,16.Gig Harbor,"$1,017,000",$359,76
+WA,17.Olympia,"$599,000",$285,56
+WA,18.Edmonds,"$698,000",$506,55
+WA,19.Bellingham,"$599,000",$399,61
+WA,20.Snohomish,"$735,000",$384,71
+WV,1.Martinsburg,"$304,990",$162,63
+WV,2.Harpers Ferry,"$412,500",$208,96
+WV,3.Charles Town,"$388,472",$138,60
+WV,4.Hedgesville,"$254,900",$174,80
+WV,5.Inwood,"$307,400",$146,62
+WV,6.Falling Waters,"$291,900",$141,109
+WV,7.Shepherdstown,"$624,450",$183,98
+WV,8.Ranson,"$353,615",$190,47
+WV,9.Morgantown,"$299,000",$140,104
+WV,10.Charleston,"$189,450",$87,78
+WV,11.Bath (Berkeley Springs),"$270,950",—,274
+WV,12.Wheeling,"$162,450",$88,90
+WV,13.Capon Bridge,—,$206,1
+WV,14.Huntington,"$126,450",$100,90
+WV,15.Romney,"$197,450",$153,71
+WV,16.Great Cacapon,"$199,450",$296,158
+WV,17.Paw Paw,"$34,900",—,117
+WV,18.Davis,"$260,000",$130,108
+WV,19.Wardensville,"$254,750",—,46
+WV,20.Keyser,"$160,000",$20,56
+WI,1.Madison,"$423,900",$236,68
+WI,2.Milwaukee,"$200,000",$146,56
+WI,3.Lake Geneva,"$529,500",$236,102
+WI,4.Wauwatosa,"$376,900",$200,42
+WI,5.Brookfield,"$750,000",$218,60
+WI,6.Kenosha,"$259,900",$168,49
+WI,7.Green Bay,"$354,500",$156,61
+WI,8.Appleton,"$329,000",$170,49
+WI,9.Whitefish Bay,"$525,000",$308,39
+WI,10.New Berlin,"$414,900",$210,46
+WI,11.Pewaukee,"$589,900",$244,62
+WI,12.Mequon,"$624,900",$226,63
+WI,13.Pleasant Prairie,"$338,450",$202,68
+WI,14.Menomonee Falls,"$549,900",$235,80
+WI,15.Waukesha,"$375,000",$198,59
+WI,16.Racine,"$199,450",$132,48
+WI,17.Middleton,"$497,450",$218,86
+WI,18.Franklin,"$419,900",$216,48
+WI,19.Oconomowoc,"$599,900",$250,55
+WI,20.Sun Prairie,"$443,400",$196,70
+WY,1.Cheyenne,"$366,950",$52,57
+WY,2.Jackson,"$2,997,500",—,132
+WY,3.Casper,"$325,000",$150,50
+WY,4.Cody,"$529,000",—,122
+WY,5.Laramie,"$405,000",$164,55
+WY,6.Sheridan,"$444,000",$156,126
+WY,7.Gillette,"$317,400",—,63
+WY,8.Lander,"$495,000",$296,97
+WY,9.Evanston,"$410,000",$157,89
+WY,10.Rock Springs,"$245,000",$159,57
+WY,11.Buffalo,"$484,750",$202,100
+WY,12.Pinedale,"$540,000",—,160
+WY,13.Alpine,"$829,000",—,125
+WY,14.Powell,"$389,500",—,100
+WY,15.Wilson,"$12,300,000",—,209
+WY,16.Star Valley Ranch,"$612,000",—,170
+WY,17.Dubois,"$535,000",—,108
+WY,18.Green River,"$347,000",$122,62
+WY,19.Afton,"$699,750",—,165
+WY,20.Riverton,"$254,000",$138,82
