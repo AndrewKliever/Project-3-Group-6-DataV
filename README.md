@@ -5,3 +5,5 @@ into a csv file of the top 20 cities in each state. i still need to figure out h
 this seams like a decent dataset as it has 1000 rows and gives you an insight into which states have a high avg price, price per sqft and days on market. we can also do i heat map of states with low medium and high avgs in each are.
 
 let me know you thoughts and the "new project file" and "redfin csv" are current so check them out. 
+
+https://www.redfin.com/state/Texas
