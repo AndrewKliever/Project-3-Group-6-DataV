@@ -15,3 +15,6 @@ the way to read the map: the map is a layered map, base layer is the heat map, a
 Of course yall dont have to run anything as everything is already saved, but i think someone should do a practice run to check for functionality, be sure to 'pip install geopy', and 'folium' before running anything. 
 let me know if you all would like to me to change anything
 -jesus
+
+1.18.25 @6:43pm  
+Using Jesus' code as a base, i created an interactive bubble map. - YSaul
